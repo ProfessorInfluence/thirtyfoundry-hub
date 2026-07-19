@@ -1,0 +1,8 @@
+{
+  "name": "thirtyfoundry-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public portfolio for ThirtyFoundry",
+  "scripts": {"start": "node server.js", "test": "node --test"},
+  "engines": {"node": ">=20"}
+}
